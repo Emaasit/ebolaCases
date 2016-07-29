@@ -6,7 +6,7 @@ ebolaCases
 Number of Ebola Cases and Deaths in Affected Countries
 -------------------------------------------------------
 
-The R package *ebolaCases* provides data Total number of probable, confirmed and suspected Ebola cases and deaths in Guinea, Liberia, Sierra Leone, Nigeria, Senegal, Mali, Spain USA, UK and Italy according to [Ebola Data and Statistics](http://apps.who.int/ebola/ebola-situation-reports).
+The R package *ebolaCases* provides data for the total number of probable, confirmed and suspected Ebola cases and deaths in Guinea, Liberia, Sierra Leone, Nigeria, Senegal, Mali, Spain USA, UK and Italy according to [Ebola Data and Statistics](http://apps.who.int/ebola/ebola-situation-reports).
 
 How to install
 --------------
@@ -35,7 +35,7 @@ Feedback, contributing, etc.
 
 Please open and issue if you find something that doesn't work as expected or have questions or suggestions. Note that this project is released with a [Guide to Contributing](CONTRIBUTING.md) and a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-Acknoweldgements
+Acknoweldgement
 ----------------
 
 Thanks to [The Humanitarian Data Exchange](https://data.humdata.org/) for collecting and hosting these data
