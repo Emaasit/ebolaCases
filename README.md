@@ -11,7 +11,7 @@ The R package *ebolaCases* provides data for the total number of probable, confi
 How to install
 --------------
 
-You can install the latest release of the package from CRAN like this
+You can install the latest release of the package from CRAN like this (YET TO BE SUBMITTED TO CRAN)
 
 ``` r
 install.packages("ebolaCases")
